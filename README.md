@@ -12,9 +12,9 @@ Software Engineer based in Nagpur, India. I build web applications and eCommerce
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [Job Portal]]((https://github.com/romanzapatmar/Job-Portal)) | College learning-resource platform | React, FastAPI, PostgreSQL |
-| [Restaurant Website]([(https://github.com/romanzapatmar/hawai-restaurant)) | Full-stack site with admin dashboard | React, FastAPI, PostgreSQL |
-| [Invoice Generator]((https://github.com/romanzapatmar/invoice_generator_using_python)) | Python app to generate invoices | Python |
+| [Job Portal](https://github.com/romanzapatmar/Job-Portal) | Job portal where admin posts jobs and candidates register and apply | React, FastAPI, PostgreSQL |
+| [Restaurant Website](https://github.com/romanzapatmar/hawai-restaurant) | Full-stack site with admin dashboard | React, FastAPI, PostgreSQL |
+| [Invoice Generator](https://github.com/romanzapatmar/invoice_generator_using_python) | Python app to generate invoices | Python |
 | [ShopHub] | Multitenant eCommerce on OpenCart | PHP, MVC, AJAX |
 
 ## 💼 Experience
