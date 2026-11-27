@@ -21,4 +21,4 @@ Software Engineer based in Nagpur, India. I build web applications and eCommerce
 Software Engineer @ Valethi Technologies LLP (2022 – present)
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/roman-zapatmar-9854b219b) • your-email@example.com
+[LinkedIn](https://linkedin.com/in/roman-zapatmar-9854b219b) • romanzapatmar123@gmail.com
